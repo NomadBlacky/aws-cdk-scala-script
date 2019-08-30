@@ -1,6 +1,6 @@
-import $ivy.`software.amazon.awscdk:core:1.0.0.DEVPREVIEW`
-import $ivy.`software.amazon.awscdk:s3:1.0.0.DEVPREVIEW`
-import $ivy.`software.amazon.awscdk:iam:1.0.0.DEVPREVIEW`
+import $ivy.`software.amazon.awscdk:core:1.6.1.DEVPREVIEW`
+import $ivy.`software.amazon.awscdk:s3:1.6.1.DEVPREVIEW`
+import $ivy.`software.amazon.awscdk:iam:1.6.1.DEVPREVIEW`
 import software.amazon.awscdk.core.{App, Construct, Stack, StackProps}
 import software.amazon.awscdk.services.iam.User
 import software.amazon.awscdk.services.s3.{Bucket, BucketProps}
