@@ -96,3 +96,5 @@ modules.xml
 
 # AWS CDK
 cdk.out/
+node_modules/
+package-lock.json
